@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="6" total="10" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-06-20T16:03:33 IST" name="Suite" finished-at="2023-06-20T16:04:15 IST" duration-ms="41478">
+    <groups>
+    </groups>
+    <test started-at="2023-06-20T16:03:33 IST" name="Test" finished-at="2023-06-20T16:04:15 IST" duration-ms="41478">
+      <class name="testcases.verifyaddtocart">
+        <test-method is-config="true" signature="launchbrowser()[pri:0, instance:testcases.verifyaddtocart@3e694b3f]" started-at="2023-06-20T16:03:49 IST" name="launchbrowser" finished-at="2023-06-20T16:03:54 IST" duration-ms="4710" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchbrowser -->
+        <test-method signature="addcart1()[pri:0, instance:testcases.verifyaddtocart@3e694b3f]" started-at="2023-06-20T16:03:54 IST" name="addcart1" finished-at="2023-06-20T16:03:58 IST" duration-ms="4075" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addcart1 -->
+      </class> <!-- testcases.verifyaddtocart -->
+      <class name="testcases.verifylogin">
+        <test-method is-config="true" signature="launchbrowser()[pri:0, instance:testcases.verifylogin@65fb9ffc]" started-at="2023-06-20T16:03:42 IST" name="launchbrowser" finished-at="2023-06-20T16:03:47 IST" duration-ms="5163" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchbrowser -->
+        <test-method signature="validLogin()[pri:0, instance:testcases.verifylogin@65fb9ffc]" started-at="2023-06-20T16:03:47 IST" name="validLogin" finished-at="2023-06-20T16:03:49 IST" duration-ms="1548" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validLogin -->
+      </class> <!-- testcases.verifylogin -->
+      <class name="testcases.verifytab">
+        <test-method is-config="true" signature="launchbrowser()[pri:0, instance:testcases.verifytab@1bb5a082]" started-at="2023-06-20T16:03:58 IST" name="launchbrowser" finished-at="2023-06-20T16:04:05 IST" duration-ms="7642" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchbrowser -->
+        <test-method signature="verifytab()[pri:0, instance:testcases.verifytab@1bb5a082]" started-at="2023-06-20T16:04:05 IST" name="verifytab" finished-at="2023-06-20T16:04:14 IST" duration-ms="8685" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifytab -->
+      </class> <!-- testcases.verifytab -->
+      <class name="testcases.registertest">
+        <test-method is-config="true" signature="ExtentReport()[pri:0, instance:testcases.registertest@76505305]" started-at="2023-06-20T16:03:33 IST" name="ExtentReport" finished-at="2023-06-20T16:03:34 IST" duration-ms="344" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ExtentReport -->
+        <test-method is-config="true" signature="launchbrowser()[pri:0, instance:testcases.registertest@76505305]" started-at="2023-06-20T16:03:34 IST" name="launchbrowser" finished-at="2023-06-20T16:03:40 IST" duration-ms="5972" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchbrowser -->
+        <test-method signature="register()[pri:0, instance:testcases.registertest@76505305]" started-at="2023-06-20T16:03:40 IST" name="register" finished-at="2023-06-20T16:03:42 IST" duration-ms="2591" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- register -->
+        <test-method is-config="true" signature="endReport()[pri:0, instance:testcases.registertest@76505305]" started-at="2023-06-20T16:04:14 IST" name="endReport" finished-at="2023-06-20T16:04:15 IST" duration-ms="678" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endReport -->
+      </class> <!-- testcases.registertest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
